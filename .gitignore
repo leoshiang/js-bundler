@@ -1,0 +1,4 @@
+packages/
+JsBundler/obj/
+JsBundler/bin/
+.vs/
